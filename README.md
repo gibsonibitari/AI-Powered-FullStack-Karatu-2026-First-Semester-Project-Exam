@@ -5,4 +5,4 @@
 **Sections:** navigation, hero, about, features, testimonial, call to action and footer.
 
 - Figma design: https://www.figma.com/design/TXzuoMAwGEIfWcAq0HbBNY/purposed?node-id=7-8
-- Live site: https://gibsonibitari.github.io/Karatu-2026-AI-Powered-FullStack-First-Semester-Project-Exam/
+- Live site: https://gibsonibitari.github.io/AI-Powered-FullStack-Karatu-2026-First-Semester-Project-Exam/
